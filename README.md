@@ -1,5 +1,5 @@
 <!--
-**EvineDeng/EvineDeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vison-v/vison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vison&show_icons=true&theme=nightowl&?count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vison-v&show_icons=true&theme=nightowl&?count_private=true)
