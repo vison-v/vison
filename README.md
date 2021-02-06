@@ -1,5 +1,41 @@
+<div align="center"><img src="https://count.getloli.com/get/@vison-v?theme=rule34" align="center" /></div>
 <!--
-**vison-v/vison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"><img src="https://komarev.com/ghpvc/?username=vison-v&style=flat-square" align="center" /></div>
+-->
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vison-v&count_private=true&show_icons=true&theme=tokyonight" align="center" /></div>
+
+<div align="center">⬇️**点击下方图片留言**⬇️</div> 
+
+<div align="center">⬇️**Click the picture below to leave a message**⬇️</div> 
+
+<div align="center">
+<a href="https://chat.getloli.com/room/@vison-v.github?title=vison-v的留言板" target="_blank">
+<img src=https://chat.getloli.com/room/@vison-v.github/svg?width=600&height=100&limit=20&theme=light&title=vison-v@github:%20~&fontSize=13 />
+</a>
+</div>
+
+<div align="center">
+
+Platform & Tools
+
+[![](https://img.shields.io/badge/MySQL(Dev)-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://dev.mysql.com/downloads/)
+[![](https://img.shields.io/badge/MarkdownEditor01-000000?style=flat-square&logo=markdown)](https://vison-v.gitee.io/markdown-editor/)
+[![](https://img.shields.io/badge/MarkdownEditor02-000000?style=flat-square&logo=markdown)](https://vison-v.github.io/markdown-editor/)
+[![](https://img.shields.io/badge/OpenJDK-orange?style=flat&logo=java)](https://adoptopenjdk.net/releases.html)
+
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/BuildTools-C++-00599C?style=flat-square&logo=C%2B%2B)](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
+
+[![](https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat-square&logo=Ubuntu)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/Windows-10-blue?style=flat-square&logo=windows)](https://www.microsoft.com/en-us/software-download/windows10)
+
+</div>
+
+
+<!--
+**vison-v/vison-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"><img src="https://komarev.com/ghpvc/?username=vison-v&style=flat-square" align="center" /></div>
 
 Here are some ideas to get you started:
 
@@ -12,4 +48,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vison-v&show_icons=true&theme=nightowl&?count_private=true)
